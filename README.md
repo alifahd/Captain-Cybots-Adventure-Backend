@@ -1,2 +1,2 @@
-# Captain-Cybots-Adventure-Backend
-Web Game to Teach Kids About Cyber Security Concepts (Backend)
+# captain-cybot-adventure-backend
+Backend for Captain Cybot's Adventure web-browser game
